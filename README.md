@@ -30,5 +30,6 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agamkoradiya&layout=compact" alt="agamkoradiya" /></p>
 
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agamkoradiya&theme=white-blue" alt="agamkoradiya" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agamkoradiya&show_icons=true" alt="agamkoradiya" /></p>

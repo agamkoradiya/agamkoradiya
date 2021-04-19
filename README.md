@@ -20,7 +20,7 @@ Project | Language | Difficulty Level | Stars | Forks | Contributors | Issues | 
 
 ### MOTTO:
 > Learning By Doing.
-> Sharing By Applying
+> Sharing After Applying.
 
 ## Reach me via:
 

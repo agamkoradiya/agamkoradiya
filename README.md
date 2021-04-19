@@ -1,3 +1,5 @@
+![Profile views](https://gpvc.arturio.dev/agamkoradiya)  
+
 # Hi 👋, I'm Agam
 
 ## **My projects** with awesome README.md file.
@@ -17,6 +19,10 @@ Project | Language | Difficulty Level | Stars | Forks | Contributors | Issues | 
 [Password Validation UI](https://github.com/agamkoradiya/SignUp-Password-Validation-In-Kotlin) | <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/> | :rocket: | ![](https://badgen.net/github/stars/agamkoradiya/SignUp-Password-Validation-In-Kotlin) | ![](https://badgen.net/github/forks/agamkoradiya/SignUp-Password-Validation-In-Kotlin) | ![](https://badgen.net/github/contributors/agamkoradiya/SignUp-Password-Validation-In-Kotlin) | ![](https://badgen.net/github/issues/agamkoradiya/SignUp-Password-Validation-In-Kotlin) | ![](https://badgen.net/github/license/agamkoradiya/SignUp-Password-Validation-In-Kotlin) | ![](https://badgen.net/github/last-commit/agamkoradiya/SignUp-Password-Validation-In-Kotlin)
 [BTC Price](https://github.com/agamkoradiya/BTC-price) | <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> | :rocket: | ![](https://badgen.net/github/stars/agamkoradiya/BTC-price) | ![](https://badgen.net/github/forks/agamkoradiya/BTC-price) | ![](https://badgen.net/github/contributors/agamkoradiya/BTC-price) | ![](https://badgen.net/github/issues/agamkoradiya/BTC-price) | ![](https://badgen.net/github/license/agamkoradiya/BTC-price) | ![](https://badgen.net/github/last-commit/agamkoradiya/BTC-price)
 [IP Information](https://github.com/agamkoradiya/IP-Information) | <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> | :rocket: | ![](https://badgen.net/github/stars/agamkoradiya/IP-Information) | ![](https://badgen.net/github/forks/agamkoradiya/IP-Information) | ![](https://badgen.net/github/contributors/agamkoradiya/IP-Information) | ![](https://badgen.net/github/issues/agamkoradiya/IP-Information) | ![](https://badgen.net/github/license/agamkoradiya/IP-Information) | ![](https://badgen.net/github/last-commit/agamkoradiya/IP-Information)
+
+
+![GitHub metrics](https://metrics.lecoq.io/agamkoradiya)  
+
 
 ### MOTTO:
 > Learning By Doing.

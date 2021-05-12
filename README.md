@@ -24,13 +24,7 @@ Project | Language | Difficulty Level | Stars | Forks | Contributors | Issues | 
 ![GitHub metrics](https://metrics.lecoq.io/agamkoradiya)  
 
 
-### MOTTO:
-> Learning By Doing.
-> Sharing After Applying.
-
 ## Reach me via:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/agamkoradiya/)
 [![Instagram](https://img.shields.io/badge/Instagram-gray.svg?style=for-the-badge&logo=instagram)](https://www.instagram.com/code.fun/)
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/agamkoradiya)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/agamkoradiya/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/code.fun/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](agamkoradiya2013@gmail.com)  
